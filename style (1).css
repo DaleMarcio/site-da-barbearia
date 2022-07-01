@@ -1,0 +1,45 @@
+header {
+	style=font-size: 20px;
+}
+
+#banner {
+	width: 100%;
+}
+
+.principal {
+	background: darkkhaki;
+	padding: 30px;
+}
+
+h2 {
+	text-align: center;
+	color: black;
+} 
+
+p {
+ 	text-align: center; 
+}
+
+#missao {
+	style=font-size: 20px;
+}
+
+strong {
+	color: #FFFFFF;
+}
+
+em strong {
+	color: #00FFFF;
+}
+
+.itens {
+	font-size: italic;
+}
+
+.beneficios {
+	background: #FFFFFF;
+}
+
+h3 {
+	text-align: center;
+}
